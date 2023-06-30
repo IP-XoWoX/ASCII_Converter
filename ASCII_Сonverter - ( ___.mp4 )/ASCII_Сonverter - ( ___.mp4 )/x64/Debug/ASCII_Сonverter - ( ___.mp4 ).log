@@ -1,0 +1,7 @@
+﻿  ASCII_Сonverter - ( ___.mp4 ).cpp
+C:\Users\W-WISARD\source\repos\OpenCV_PROJECT\ASCII_Сonverter - ( ___.mp4 )\ASCII_Сonverter - ( ___.mp4 )\ASCII_Сonverter - ( ___.mp4 ).cpp(26,27): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\W-WISARD\source\repos\OpenCV_PROJECT\ASCII_Сonverter - ( ___.mp4 )\ASCII_Сonverter - ( ___.mp4 )\ASCII_Сonverter - ( ___.mp4 ).cpp(31,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\W-WISARD\source\repos\OpenCV_PROJECT\ASCII_Сonverter - ( ___.mp4 )\ASCII_Сonverter - ( ___.mp4 )\ASCII_Сonverter - ( ___.mp4 ).cpp(32,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\W-WISARD\source\repos\OpenCV_PROJECT\ASCII_Сonverter - ( ___.mp4 )\ASCII_Сonverter - ( ___.mp4 )\ASCII_Сonverter - ( ___.mp4 ).cpp(35,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+ASCII_Сonverter - ( ___.mp4 ).obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  ASCII_Сonverter - ( ___.mp4 ).vcxproj -> C:\Users\W-WISARD\source\repos\OpenCV_PROJECT\ASCII_Сonverter - ( ___.mp4 )\x64\Debug\ASCII_Сonverter - ( ___.mp4 ).exe
